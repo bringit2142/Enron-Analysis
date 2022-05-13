@@ -1,0 +1,2 @@
+# Enron-Analysis
+This program will parse through a set of 10,000 emails for the purpose of pre- analysis  processing.  These  emails  are  a  sample  from  a  collection  of  around  500,000  emails  known as  the  “Enron  Email  Dataset”.  This  dataset  contains  emails  sent  by  employees  of  Enron  after  the collapse of the company. The  program  takes  at  least  one  command-line  argument:  the  name  of  the  file containing the emails
